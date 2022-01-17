@@ -1,0 +1,110 @@
+Company Name,Title,Project brief ,Project Background,Requiements
+ATX,ATX Software Testing Suite,Automated testing suite for all software products developed by ATX,This project will focus on graphical user interface testing on Android and web environment.,"Generates user interface events and observes the changes resulting in the user interface.
+ The main product that will be tested includes Mypospay, Gopay, Gopayz, Runcit Hero.  
+Technology used includes selenium, testcraft, phantomjs and many more. The project will also include dashboard development for test report"
+,Prediction on Obesity associates with Lifestyles and Diseases,Identify the effective indicators of obesity by using appropriate statistical techniques,The main objective of the present study is to address obesity prediction in three stages.,"To propose the features in determining obesity
+To estimate the parameters of the Predictive model using BN and SEM
+To develop a predictive model in associates lifestyles and diseases.
+To develop a platform as a website to predict Obesity and visualize for patients"
+,Mobile Advertising Platform with Designing Suite Title,"To improve employee communications and engagement, particularly in relation to employee health and well-being and workplace performance",The goal of the project is to create a mobile application that allows users to check their personal information as well as their health and well-being.,"to provide direct communications on employment benefits, health and performance, as well as wallet for rewards"
+PurposePurchase Sdh Bhd,PurposePurchase,"
+cause-related ecommerce app, as well as a platform, 
+targeting socially-conscious consumers in Malaysia","PurposePurchase is an online e-commerce platform, available via smartphone app.
+The platform would be the only cause-focused e-marketplace available in Malaysia.","To build an e-commerce app which centralizes all the causes and cause related products in one platform.
+To provide easy access for consumers towards contributing back to the society and their communities.
+To promote and enhance the idea of supporting and giving back to the communities via purchasing online.  
+"
+,Educational Game ,The aim of this project is to create an educational game to aid the teaching and learning of Statistics.,"The students will be given a concept document, bibles of characters, settings, puzzles, flowcharts, concept art, storyboards, dialogue script and design script of the methods involved in Statistics. 
+The methods involved are collection of data, analysis of data, presentation of data, interpretation and decision making
+The students are to explore, examine and develop the solutions using software methodology in the development of the game and process design",Develop the prototype which can be further improved in the future. 
+ProximaX,Fake News Detection ,This project focuses on developing a solution using ProximaX blockchain to detect fake news on social media network.,"A trust index based framework needs to be developed to define and establish a mechanism to represent the empirical relationship between source verification, author credibility check and news credibility.",Use proximax blockchain for the development of the fake news detecting platform 
+Coinnov8 Web Portal,Content Management System in an IOT environment ,"The CMS will manage information, advertisements to be sent to smart tvs, digital screens and any device that is connected to receive multitude of content from the system","There is a lacking of CMS system that is built on a web based model. 
+ Legacy hardwares such as TVs and digital screens are not connected to receive content updates to inform tenants of coworking space and office buildings. 
+The web portal can solve this technology gap with the help of some minimal IOT device or using free connectivity such as LORA or WIFI within the vicinity.","Web based portal able to send content to be displayed on screens
+Portal able to cast content to non-smart screens such as TVs via an additional of simple connectivity devices (e.g. Bluetooth cast, beacon etc)
+Portal able to schedule contents in advance by calendar
+Portal able to direct send content to smart screens to be played as a loop
+Templates of design for simple upload of content to screens
+Mobile friendly
+Portal with Corporate Branding UI
+
+"
+,FaceCheck ,Face-check is a facial recognition system comprising of both hardware and software for hotels and resorts to use.,"All the guests would need to do is key in their details in the system and it would come out with their keys to the room. 
+Besides, the interface would also have space to key in any special request of their guest which they would do if they checked in the hotel through the counter.","To develop necessary hardware such as camera for the facial recognnition system.
+To develop the interface and software for the users to use. 
+To provide a system to the hotels to maintain a database. 
+Create a homepage, special request, room change request, payment interface, key card drop box 
+"
+ATX / MSC ,"
+Nodejs Port of ATX Wallet System
+","This project will include requirement gathering and development for ATX’s current wallet system, which will be ported to more robust, cost effective and scalable solution development platform: nodejs","This project will also improve drawbacks of the wallet system. This project will include API gateway development, frontend and backend development, microservices, queues and container technology.","Technology used includes nodejs, vuejs, docker, git, nosql, machine learning (transaction fraud monitoring) and many more.
+"
+ATX / MSC ,Nodejs Port of Mypospay Backend,Mypospay enable merchants to become mini Pos Malaysia. ," Current backend system is built using PHP and Laravel framework; which is not scalable as the number of parcel transaction increases. 
+Nodejs is a good choice to rewrite the whole backend system with modular and microservices architecture. ","This project includes requirement gathering, microservice & API development and webapp development (dashboard). 
+Technology used includes, Google maps, nodejs, vuejs, git, docker, firebase cloud messaging and many more"
+,Online Assessment in Education System ,It is important to highlight the centrality of e-learning systems especially in this modern context that emphasizes the need for ease of access regarding remote learning solutions while maintaining its relevance and engagement,"Therefore, in the current assigned project to develop an e-learning platform for a variety of subjects in different education levels, there are various issues needed to be tackled to create an effective system."," the students have been given the relevant assessments to test the students undertaking the various modules in the e-learning platform
+Moreover, students, parents, teachers and educational institutions who are using this system must be able to monitor the progress of the users who are using this platform
+The learning experience consists of multiple subjects and related syllabus that the users can explore and engage on interactive assessment learning content"
+,Credit Card Encryption ,,,
+,,,,
+,,,,
+,,,,
+,Facecheck,Face-check is a facial recognition system comprising of both hardware and software for hotels and resorts to use.,The main aim of this pro is to bring a change in the conventional hotel check in system that is often very inconvenient in major tourist cities,"Decreases the queue up time at the usual check-in time for hotels and resorts.
+Help to reduce the number of staff required to serve the clients at the counter.
+"
+Hilti,Hilti Global Territory Management Solution,"Territory management is the process of organizing sales territories and assigning account managers those territories in order to manage accounts take advantage of the opportunities in each region to ensure the best use of company salesforce resources.
+
+Territories are usually designed based on geography, customer potential, customer industry, sales history or a combination of these fact bases.
+
+Currently in Hilti, we have different approaches in different hubs and use different tools to design and manage territories. Investment of resources is based on “gut feeling” instead of fact base driven. And we do not have tool to measure the success of our investment too.","To have one global tool for all the market organization to facilitate same global territory management process.
+To have analytical enabled decision making in resource investment
+The solution is for all the territory-based resources (including FE and Service Specialist) not only for AMs.","An MVP consists of :
+The logic of territory assignment based on data
+Map for visualization of territory to account assignment with simulated analysis
+Integration options of data source considering Hilti is using SAP S4, SalesForce.com, SAP BW…"
+,Cyber Threat Intelligence Mining Model,"This model seeks to identify new techniques for how dark web hacker data can be inadvertently obtained and transformed into proactive cyber threat intelligence, thereby assisting various defenders of networks in escaping cyber threats and attacks, getting hold of the breached or infringed information and on a larger spectrum, getting to understand hacker groups. ","The initial processes undertaken include a proper guide to the understanding of the cybersecurity aspects, the possible available threats, and how they can be traced and mitigated. What follows after that is the agreement on the course of action, the intended ways of launching various protocols, and the creation of systems that will finally go into the mining and mitigation process. ",to use data mining and artificial intelligence techniques and procedures and bring together and conduct an analysis of the available data from these communities or groups with the view of availing the required and valuable cyber threat intelligence.
+,Pocket – Money Tracking App,"Pocket is a user friendly mobile application that can be widely used for personal finance management. With millions of users struggling to keep track of their financial expenses, Pocket provides features for a convenient recording and expenses tracking, in order to encourage users to have the habit of tracking their expenses.","Aim to deliver an all-in-one application that provides some new features such as warranty tracking and tax relief tracking. 
+To simplify the process of tracking expenses, and encourage more people to be more aware of their finances.
+","To develop a user friendly app that will be able to help users track their daily expenses automatically.
+Encourage a habit of tracking expenses through an application.
+Providing features that enhances user’s convenience daily. For instance, the warranty tracking and split bill function.
+Build a personal financial ecosystem via pocket app.
+Increase in traffic, awareness and revenue to the pocket app.
+To build partnerships with other organizations which can be used to better target customers.
+"
+,Virtual Fitting Room,This online shopping platform offers a great variety of ways of attracting consumers by leveraging the latest technology to create competitive advantage features.,"to develop an online shopping platform for both app and website that adopts physical and online shopping without barriers by having competitive advantage features such as Special Code and Code Scanner, Virtual Fitting Room, Interactive Sizing and Matching Suggestion.","To develop an online shopping platform to assist or support micro, small to medium clothing businesses to connect with the consumers or gain consumers to compete along established brands through brick and mortar, e-commerce and click and mortar.
+To build quality relationships and trust between the consumers and sellers.
+Increase brand awareness to drive consumers’ decisions.
+Commercialise competitive advantage features.
+Faster product browsing platform.
+To develop an algorithm to identify consumers’ preferences.
+"
+,,,,
+Agensi Pekerjaan & Latihan TAPRO Sdn Bhd,(CRM) tool for recruitment.,"Currently, selected information of the candidates are extracted from their CV and updated on Microsoft Excel.  If the profiles are not updated on MExcel, it probably stored in an email or LinkedIn or Whatsapp, whatever channel the candidate used to send it to us.",Aim to build a CRM tool for recruitment," CRM for Recruiters.  The focus should be on:
+
+Central management candidate information
+Application tracking system/engagement
+Candidate search/sourcing
+Formatted/printable profiles
+Multi user function
+Email friendly
+"
+People Systems Consultancy Sdn Bhd,"App to build Financial Inclusion and Intelligence across
+B40s, Micros and SMEs.","Build the financial resilience and intelligence of different economic groups from the B40s, PWDs, single parents, youths, indigenous groups, micro-entrepreneurs and SMEs, enabling them to
+start or scale their businesses based on their own capacity and connecting them to
+ecosystem partners for business sustainability.","seeking support and assistance to: 
+(a) build marketplace that enable the micro-entrepreneurs which majority of
+them were from the marginalized communities to sell their products through the app; 
+(b)
+integrate API from various ecosystem partners to our app; and 
+(c) testing, trouble-shooting and collating feedbacks of the app
+","Develop app for different users functionality
+Develop training materials & contents
+Develop & design marketing strategy for the Company
+Conduct sales and pitching to potential clients (B2B model) & partners"
+,Statistics: Zero to Hundred ,"In the world of education, e-learning platform is essential to make the teaching and 
+learning to be interesting and accessible by everyone remotely. ","The aim of this project is to create an e-learning platform to aid the teaching and learning of Statistics. 
+This project is focused on using tools such as NoSql, MongoDB or other software to design the e-learning platform.","To understand the flow of the e-learning and the processes that is involved to produce the platform and how the system work from the initial design process to the creation of the platform.
+To design, develop and implement a module to reflect the topics in Statistics into a storyboard and producing on-demand visual presentations and manipulation in the e-learning platform. 
+To produce an e-learning  platform that results in a high-quality educational tool, rich in depth and produces quality insights. "
+,WhatsApp Messenger Forensic Analysis Based on Android Using Text Mining Method,,,
