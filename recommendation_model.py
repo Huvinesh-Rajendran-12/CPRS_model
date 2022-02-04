@@ -73,7 +73,8 @@ tfidf_vect = TfidfVectorizer()
 tfidf_comb = tfidf_vect.fit_transform((client_data["Requirements"]))
 tfidf_comb
 
-# input user group id
+# input user group id:68
+
 # group_id = int(input("Enter the group id: "))
 
 # grp_index = np.where(student_group_data["group_id"] == group_id)[0][0]
